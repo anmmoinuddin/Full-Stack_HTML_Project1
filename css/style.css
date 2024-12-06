@@ -1,0 +1,180 @@
+ .heightsize{
+  height: 700px;
+  width: auto;
+  background-color:#6610f2;
+  border: 3px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+  
+  color: white;
+ }
+
+ .heightsize2{
+    height: 1200px;
+    width: auto;
+    background-color:whitesmoke;
+    
+    padding: 10px;
+    margin: 20px;
+    
+    color: blue ;
+   }
+
+   .heightsize6{
+      height: 1300px;
+      width: auto;
+      background-color:whitesmoke;
+      border: 1px solid whitesmoke;
+      padding: 10px;
+      margin: 20px;
+      
+      
+      color: blue ;
+     }
+   .heightsize3{
+      padding: 50px;
+      font-weight: 600;
+   }
+   .heightsize4{
+      padding: 0px 50px 50px 50 px;
+      color: blue;
+      font-size: large;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      
+   }
+    
+   .heightsize5{
+      padding: 0px;
+      font-weight: 600;
+      
+   }
+
+ .buildh1{
+  margin: 10px 230px;
+  font-weight: 600;
+  font-style: normal;
+  
+  
+  
+ }
+ .buildh2{
+  font-size: 10 em;
+  font-weight: 100;
+  color: white;
+  margin: 170px 230px 0px 230px;
+  word-spacing: 2px;
+  
+ }
+
+ .buildp1{
+    
+    font-weight: 100;
+    color: white;
+    margin: 180px 230px 20px 230px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    word-spacing: 2px;
+    
+   }
+.btnprop{
+      
+      margin: 0px 230px 0px 230px;
+      
+   }
+    
+  
+.buildh3{
+    font-size: 10 em;
+    color:blue;
+    margin: 0px 230px 0px 230px;
+    
+    
+}
+.buildp2{
+    
+    font-size: 8 em;
+    color: black;
+    margin: 0px 230px 0px 230px;
+    word-spacing: 1px;
+      
+    
+}
+
+.btnprop2{
+    
+   margin: 170px 230px 10px 230px;
+   
+}
+.btnprop3{
+    
+   margin: 0px 230px 10px 230px;
+    
+
+}
+
+.c1{
+   margin: 190px 230px 10px 300px;
+   
+  padding: 10px;
+}
+.c2{
+   margin: 0px 230px 10px 300px;
+   padding: 10px;
+}
+
+.c3{
+   margin: 160px 230px 10px 130px;
+   
+  padding: 10px;
+}
+.c4{
+   margin: 0px 230px 10px 130px;
+   padding: 10px;
+}
+ 
+.bh{
+   font-weight: 600;
+   color: blue;
+   font-size: large;
+    
+   
+}
+ 
+ .fcolor{
+
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+ }
+ 
+ .respimg{
+   width: 30%;
+   height: 100%;
+   margin: 0px 70px 10px 210px;
+
+
+ }
+ 
+ .cimage{
+   height: fit-content;
+   width: fit-content;
+ }
+
+ .cimage2{
+   width: 60%;
+   height: 100%;
+   display: flex;
+   margin-left: 40px;
+  
+ }
+
+ .buildh6{
+   font-size: 10 em;
+   font-weight: 100;
+   color: white;
+   margin: 0px 230px 0px 230px;
+   word-spacing: 2px;
+   
+  }
